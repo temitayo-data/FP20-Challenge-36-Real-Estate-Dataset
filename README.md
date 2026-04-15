@@ -1,3 +1,6 @@
+<img width="1087" height="729" alt="Real Estate 1" src="https://github.com/user-attachments/assets/b5474d80-14e9-4f73-8fa3-377c81612488" />
+<img width="1074" height="719" alt="Real Estate 2" src="https://github.com/user-attachments/assets/461f3052-fe12-48d6-bff2-ce1526872674" />
+
 
 # EU Real Estate Market Analysis (2020–2024)
 
